@@ -42,7 +42,7 @@ Host Organization: CodeAlpha
 📂 Project Directory Structure
 To maintain a highly professional submission, the files in the Google Drive folder are organized as follows:
 
-```placeholders
+``placeholders
 CodeAlpha_YourName_IoT/
 │
 ├── README.md                                  # Portfolio documentation (This file)
@@ -50,3 +50,24 @@ CodeAlpha_YourName_IoT/
 └── Task_2_Simulation_LDR_Pico/                # Task 2: Simulation Files
     ├── main.py                                # MicroPython source code for Pico
     └── Simulation_Screenshot.png              # Working circuit simulation screenshot
+
+ 
+ 
+ task 3:-
+CodeAlpha IoT Internship — Complete Submission Portfolio
+
+
+📂 Project Directory Structure
+The files in the Google Drive folder are organized as follows:
+
+```placeholders
+CodeAlpha_YourName_IoT/
+│
+├── README.md                                  # Complete Portfolio documentation
+├── Task_1_Research_Report_Smart_Homes.pdf     # Task 1: Research Report (PDF)
+├── Task_2_Simulation_LDR_Pico/                # Task 2: Smart Street Light Simulation
+│   ├── main.py                                # MicroPython code for LDR
+│   └── Simulation_Screenshot_LDR.png          # LDR circuit screenshot
+└── Task_3_Prototype_Motion_Alarm/             # Task 3: Motion Detection Alarm System
+    ├── main.py                                # MicroPython code for PIR Alarm
+    └── Simulation_Screenshot_PIR.png          # PIR circuit screenshot
