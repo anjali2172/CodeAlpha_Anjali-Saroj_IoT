@@ -43,7 +43,7 @@ Host Organization: CodeAlpha
 To maintain a highly professional submission, the files in the Google Drive folder are organized as follows:
 
 ``placeholders
-CodeAlpha_YourName_IoT/
+CodeAlpha_Anjali Saroj_IoT/
 │
 ├── README.md                                  # Portfolio documentation (This file)
 ├── Task_1_Research_Report_Smart_Homes.pdf     # Task 1: Finished Research Report (PDF)
@@ -60,8 +60,8 @@ CodeAlpha IoT Internship — Complete Submission Portfolio
 📂 Project Directory Structure
 The files in the Google Drive folder are organized as follows:
 
-```placeholders
-CodeAlpha_YourName_IoT/
+placeholders
+CodeAlpha_Anjali Saroj_IoT/
 │
 ├── README.md                                  # Complete Portfolio documentation
 ├── Task_1_Research_Report_Smart_Homes.pdf     # Task 1: Research Report (PDF)
@@ -71,3 +71,22 @@ CodeAlpha_YourName_IoT/
 └── Task_3_Prototype_Motion_Alarm/             # Task 3: Motion Detection Alarm System
     ├── main.py                                # MicroPython code for PIR Alarm
     └── Simulation_Screenshot_PIR.png          # PIR circuit screenshot
+
+    
+  task 4:-
+
+    Task 4: Mini Project - IoT Case Study (AIoT Integration)
+
+ 📌 Project Overview
+This repository contains the submission for **Task 4** of the CodeAlpha Internet of Things (IoT) Internship. 
+
+This project is a comprehensive, 6-page case study analyzing the convergence of the Internet of Things (IoT)  and  Artificial Intelligence (AI)**, commonly referred to as the **Artificial Intelligence of Things (AIoT)**.
+
+
+
+ 📂 File Structure
+```text
+├── CodeAlpha_Anjali Saroj_IoT/
+│   ├── Task 4 - IoT Case Study/
+│   │   ├── IoT_AI_Integration_Case_Study.pdf   <-- Main Case Study Document
+│   │   └── README.md                            <-- This File
